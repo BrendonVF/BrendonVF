@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi 👋 Meu nome é Brendon
+desenvolvedor front-end junior
+tenho 23 anos e atualmente estou cursando o segundo semestre de analise e desevolvimento de sistemas pela UNIGRAN.
 
-<!--
-**BrendonVF/BrendonVF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 atualmente moro em Caarapó/MS, Brazil
+✉️ meu email de contato (brendon72011@gmail.com)
+🚀 atualmente estou estudando C/C++
+🧠 Estou aprendendo Javascript Avançado, Testes Unitários e linguagem de programação C
+🤝 Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas
+⚡ Eu amo esportes e meu favorito é calistenia
+⚡ particularmente me considero um entusiasta no ramo da tecnologia
