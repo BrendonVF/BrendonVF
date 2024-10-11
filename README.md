@@ -1,9 +1,6 @@
 Hi 👋 My name is Brendon
 ==========================
 
-desenvolvedor front-end
------------------------------
-
 tenho 25 anos e atualmente estou cursando o quinto semestre de analise e desevolvimento de sistemas pela UNIGRAN.
 
 
